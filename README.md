@@ -5,7 +5,7 @@
   
 2. index.php：WebAPI入口
   
-  參數：
+  GET 參數：
   - from_currency
   - to_currency
   - amount
